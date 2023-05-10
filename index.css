@@ -1,0 +1,28 @@
+.img{
+  width: 137px;
+  border-color: black;
+}
+
+.pai{
+  display: flex;
+
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+.cbc{
+  border-radius: 15px;
+  padding: 20px;
+  background-color:#3a3535
+}
+
+body{
+  background-color: #212121
+
+}
+.textocbc{
+text-align: center;
+font-size: large;
+
+
+}
